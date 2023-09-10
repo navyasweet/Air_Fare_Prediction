@@ -28,7 +28,7 @@ pip install -r requirements.txt
 ## Deployement on Pythonaanywhere
 Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.
 
-![11](https://github.com/navyasweet/Air_Fare_Prediction/assets/134292286/437a1c39-abd8-4bb6-9540-8479ae6c6f41)(https://pythonanywhere.com)
+![11](https://github.com/navyasweet/Air_Fare_Prediction/assets/134292286/437a1c39-abd8-4bb6-9540-8479ae6c6f41)
 
 ## Technologies Used
 [<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) 
